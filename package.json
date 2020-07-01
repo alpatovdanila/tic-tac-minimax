@@ -4,6 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
+  "homepage": "https://alpatovdanila.github.io/tic-tac-minimax/",
   "dependencies": {
     "file-saver": "2.0.2",
     "react": "16.8.6",
