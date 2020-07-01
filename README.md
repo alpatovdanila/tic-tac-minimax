@@ -1,4 +1,4 @@
-Tic-tac-toe game made in process of [minimax](//en.wikipedia.org/wiki/Minimax) algorigthm experimentations.
+Tic-tac-toe game made in the process of [minimax](//en.wikipedia.org/wiki/Minimax) algorigthm experimentations.
 
 MINIMAX with alpha-beta pruning used for AI, React used for the visual part.
 
